@@ -39,9 +39,9 @@ apt install git
 
 apt update && apt upgrade
 
-git clone https://github.com/zim-bot/zimbot-v2
+git clone https://github.com/Kanambp/kan
  
-cd zimbot-v2
+cd kan
 
 npm install
 
